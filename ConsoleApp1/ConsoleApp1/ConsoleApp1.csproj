@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\User\Desktop\ghfrnbxtcrfz 1.cs" Link="ghfrnbxtcrfz 1.cs" />
+  </ItemGroup>
+
+</Project>

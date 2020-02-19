@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\bin\Debug\netcoreapp3.0\практическая работа 5.exe
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\bin\Debug\netcoreapp3.0\практическая работа 5.deps.json
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\bin\Debug\netcoreapp3.0\практическая работа 5.runtimeconfig.json
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\bin\Debug\netcoreapp3.0\практическая работа 5.runtimeconfig.dev.json
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\bin\Debug\netcoreapp3.0\практическая работа 5.dll
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\bin\Debug\netcoreapp3.0\практическая работа 5.pdb
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\obj\Debug\netcoreapp3.0\практическая работа 5.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\obj\Debug\netcoreapp3.0\практическая работа 5.AssemblyInfo.cs
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\obj\Debug\netcoreapp3.0\практическая работа 5.dll
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\obj\Debug\netcoreapp3.0\практическая работа 5.pdb
+C:\Users\User\source\repos\практическая работа 5\практическая работа 5\obj\Debug\netcoreapp3.0\практическая работа 5.csprojAssemblyReference.cache
